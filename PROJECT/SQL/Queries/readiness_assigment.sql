@@ -1,3 +1,3 @@
-SELECT *, user() as "Me" FROM dimondt.readiness_assignment 
+SELECT *, user() as "Me" FROM dimond.readiness_assignment 
 ORDER BY RAND()
 LIMIT 1;
